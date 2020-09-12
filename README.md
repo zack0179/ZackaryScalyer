@@ -31,7 +31,7 @@ Regression Project
 
 [Python Notebook data collection using Kaggle's public dataset BigQuery integration](https://github.com/zack0179/ZackaryScalyer/blob/c37a8d2f2d3e422a16ac507814c2bc3b50735ab7/Villanova%20University/Regression%20Project/first-bigquery.ipynb)  
 [R Markdown data cleaning, merging, and model building](https://htmlpreview.github.io/?https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Regression%20Project/Scalyer_MAT8406_SelfHarm.html)  
-[Wrighten Report](https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Regression%20Project/Scalyer_MAT8406_Report.pdf)  
+[Written Report](https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Regression%20Project/Scalyer_MAT8406_Report.pdf)  
 
 Data Mining Project  
 
@@ -39,12 +39,12 @@ Data Mining Project
 [R Script Random Forest hyperparameter tuning](https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Data%20Mining%20Project/DMPhaseII_RandomForest.R)  
 [R Script scoring final model](https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Data%20Mining%20Project/ProjectScoring.R)  
 [Homebrew functional plotting example](https://htmlpreview.github.io/?https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Data%20Mining%20Project/MAT8480_ScalyerPlotter.html#functional_plotting)  
-[Wrighten Group Report](https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Data%20Mining%20Project/Lift%20Maximizers%20Final%20Project%20Report.pdf)  
+[Written Group Report](https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Data%20Mining%20Project/Lift%20Maximizers%20Final%20Project%20Report.pdf)  
 
 Categorical Data Analysis Project  
 
 [R Markdown](https://htmlpreview.github.io/?https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Categorical%20Data%20Analysis%20Project/Scalyer_MAT8414_Project_v3.html)  
-[Wrighten Report](https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Categorical%20Data%20Analysis%20Project/Scalyer_MAT8414_ProjectPaper.pdf)  
+[Written Report](https://github.com/zack0179/ZackaryScalyer/blob/master/Villanova%20University/Categorical%20Data%20Analysis%20Project/Scalyer_MAT8414_ProjectPaper.pdf)  
 
 Bayesian Statistics Project  
 
